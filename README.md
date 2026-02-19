@@ -1,2 +1,2 @@
 # ToDoApplication-API-
-TODO application API using FastAPI
+TODO application API using FastAPI, SQLAlchemi 
